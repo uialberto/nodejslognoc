@@ -16,6 +16,26 @@ https://www.npmjs.com/package/json-server
 
 https://www.npmjs.com/package/dotenv
 
+
+npm install mongoose --save
+
+
 Reconstruir Modulos de Node
 npm i
 npm run dev
+
+
+# dev
+1. Clonar el archivo env.template a .env
+2. Configurar las variables de entorno
+
+```
+
+MAILER_EMAIL=
+MAILER_SECRET_KEY=
+PORT=3000
+PROD=false
+
+```
+
+docker compose up -d
