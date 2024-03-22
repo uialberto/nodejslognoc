@@ -12,3 +12,7 @@ npm run dev
 https://www.npmjs.com/package/cron
 
 https://www.npmjs.com/package/json-server
+
+Reconstruir Modulos de Node
+npm i
+npm run dev
