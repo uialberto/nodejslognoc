@@ -17,6 +17,10 @@ https://www.npmjs.com/package/json-server
 https://www.npmjs.com/package/dotenv
 
 
+npm install prisma --save-dev
+
+
+
 npm install mongoose --save
 
 
